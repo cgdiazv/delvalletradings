@@ -25,29 +25,41 @@ export default function Home() {
             leadership and operational support to ensure the success of its subsidiaries.
           </p>
           
-          <p className="font-semibold text-amber-700">Our portfolio includes:</p>
+          <p>Our portfolio includes:</p>
 
           {/* Subsidiaries */}
-          <div className="space-y-8">
+          <div className="space-y-10">
             <div>
-              <h2 className="text-xl font-bold text-amber-800">Indeva Websites</h2>
-              <p className="mt-1">
+              <h2 className="text-xl font-bold uppercase tracking-tight">
+                <a href="https://indevasa.com" className="text-[#9a7949] hover:opacity-80 transition-opacity">
+                  Indeva Websites
+                </a>
+              </h2>
+              <p className="mt-2 text-[#444444]">
                 A creative web design and development company specializing in delivering simple, modern, and 
                 effective website solutions for businesses of all sizes.
               </p>
             </div>
 
             <div>
-              <h2 className="text-xl font-bold text-amber-800">Lácteos Del Valle</h2>
-              <p className="mt-1">
+              <h2 className="text-xl font-bold uppercase tracking-tight">
+                <a href="#" className="text-[#9a7949] hover:opacity-80 transition-opacity">
+                  Lácteos Del Valle
+                </a>
+              </h2>
+              <p className="mt-2 text-[#444444]">
                 A specialty dairy manufacturing brand offering authentic Central American flavors through high-quality, 
                 handcrafted dairy products.
               </p>
             </div>
 
             <div>
-              <h2 className="text-xl font-bold text-amber-800">DDV Consulting</h2>
-              <p className="mt-1">
+              <h2 className="text-xl font-bold uppercase tracking-tight">
+                <a href="#" className="text-[#9a7949] hover:opacity-80 transition-opacity">
+                  DDV Consulting
+                </a>
+              </h2>
+              <p className="mt-2 text-[#444444]">
                 A professional management consulting firm that provides customized solutions to optimize 
                 operations, improve efficiency, and drive growth for businesses across various industries.
               </p>

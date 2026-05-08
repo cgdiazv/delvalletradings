@@ -8,7 +8,7 @@ export default function Home() {
         {/* Logo Section */}
         <div className="mb-12">
           <Image 
-            src="/logo-devalle.webp" 
+            src="/logo-delvalle.webp" 
             alt="Del Valle Tradings LLC Logo" 
             width={350} 
             height={200} 
@@ -30,7 +30,7 @@ export default function Home() {
           {/* Subsidiaries */}
           <div className="space-y-10">
             <div>
-              <h2 className="text-xl font-bold uppercase tracking-tight">
+              <h2 className="text-xl font-bold tracking-tight">
                 <a href="https://indevasa.com" className="text-[#9a7949] hover:opacity-80 transition-opacity">
                   Indeva Websites
                 </a>
@@ -42,7 +42,7 @@ export default function Home() {
             </div>
 
             <div>
-              <h2 className="text-xl font-bold uppercase tracking-tight">
+              <h2 className="text-xl font-bold tracking-tight">
                 <a href="#" className="text-[#9a7949] hover:opacity-80 transition-opacity">
                   Lácteos Del Valle
                 </a>
@@ -54,7 +54,7 @@ export default function Home() {
             </div>
 
             <div>
-              <h2 className="text-xl font-bold uppercase tracking-tight">
+              <h2 className="text-xl font-bold tracking-tight">
                 <a href="#" className="text-[#9a7949] hover:opacity-80 transition-opacity">
                   DDV Consulting
                 </a>
